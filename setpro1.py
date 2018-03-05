@@ -14,6 +14,6 @@ def main():
 		l=strarr.split()
 		longcomstr(l)
 	except:
-		print('invalid')
+		print('invalids')
     
 main()
