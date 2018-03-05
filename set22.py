@@ -5,4 +5,4 @@ try:
 		f*=i
 	print(f)
 except:
-	print('invalid')
+	print('invallid')
